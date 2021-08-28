@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **react js ,node js, mongoDb,expressjs**
 
-- 🤝 I’m looking for help with **web development**
-
 - 💬 Ask me about **Website related Qus.**
 
 - ⚡ Fun fact **I think ,I'm very friendli person**
